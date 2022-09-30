@@ -1,0 +1,25 @@
+.pdbox{
+    padding: 10px 5px;
+
+}
+.pdbox img{
+    width: 100%;
+    height: 250px;
+    object-fit: cover;
+    border-radius: 5px;
+}
+.pdbox h1{
+    font-size: 18px;
+    margin-top: 30px;
+    font-weight: bold;
+}
+
+.buybtn{
+    text-decoration: none;
+    background-color: var(--primary-color);
+    color: black;
+    padding: 10px 10px;
+    border-radius: 5px;
+    font-size: 16px;
+    cursor: pointer;
+}
